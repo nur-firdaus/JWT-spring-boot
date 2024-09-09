@@ -1,6 +1,6 @@
-package com.securemetric.config;
+package com.sample.config;
 
-import com.securemetric.model.UserInfo;
+import com.sample.model.UserInfo;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

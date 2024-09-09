@@ -1,9 +1,9 @@
-package com.securemetric.controller;
+package com.sample.controller;
 
-import com.securemetric.model.AuthRequest;
-import com.securemetric.model.UserInfo;
-import com.securemetric.service.JwtService;
-import com.securemetric.service.UserService;
+import com.sample.model.AuthRequest;
+import com.sample.model.UserInfo;
+import com.sample.service.JwtService;
+import com.sample.service.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

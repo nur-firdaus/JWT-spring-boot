@@ -1,7 +1,7 @@
-package com.securemetric.controller;
+package com.sample.controller;
 
-import com.securemetric.model.Product;
-import com.securemetric.service.ProductService;
+import com.sample.model.Product;
+import com.sample.service.ProductService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

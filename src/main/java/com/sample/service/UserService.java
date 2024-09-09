@@ -1,7 +1,7 @@
-package com.securemetric.service;
+package com.sample.service;
 
-import com.securemetric.model.UserInfo;
-import com.securemetric.repository.UserInfoRepository;
+import com.sample.model.UserInfo;
+import com.sample.repository.UserInfoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

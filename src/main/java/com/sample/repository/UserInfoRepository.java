@@ -1,6 +1,6 @@
-package com.securemetric.repository;
+package com.sample.repository;
 
-import com.securemetric.model.UserInfo;
+import com.sample.model.UserInfo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

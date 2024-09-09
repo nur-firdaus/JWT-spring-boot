@@ -1,4 +1,4 @@
-package com.securemetric.service;
+package com.sample.service;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

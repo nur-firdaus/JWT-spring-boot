@@ -1,7 +1,7 @@
-package com.securemetric.config;
+package com.sample.config;
 
-import com.securemetric.model.UserInfo;
-import com.securemetric.repository.UserInfoRepository;
+import com.sample.model.UserInfo;
+import com.sample.repository.UserInfoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

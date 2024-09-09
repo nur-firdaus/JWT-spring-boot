@@ -1,4 +1,4 @@
-package com.securemetric.model;
+package com.sample.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

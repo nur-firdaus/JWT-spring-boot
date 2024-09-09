@@ -1,7 +1,7 @@
-package com.securemetric.service;
+package com.sample.service;
 
-import com.securemetric.model.Product;
-import com.securemetric.repository.ProductRepository;
+import com.sample.model.Product;
+import com.sample.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

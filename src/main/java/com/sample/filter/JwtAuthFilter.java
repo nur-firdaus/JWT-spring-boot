@@ -1,7 +1,7 @@
-package com.securemetric.filter;
+package com.sample.filter;
 
-import com.securemetric.config.UserInfoUserDetailsService;
-import com.securemetric.service.JwtService;
+import com.sample.config.UserInfoUserDetailsService;
+import com.sample.service.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

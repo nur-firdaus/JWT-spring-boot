@@ -1,6 +1,6 @@
-package com.securemetric.config;
+package com.sample.config;
 
-import com.securemetric.filter.JwtAuthFilter;
+import com.sample.filter.JwtAuthFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

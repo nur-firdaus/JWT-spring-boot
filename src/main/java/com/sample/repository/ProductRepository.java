@@ -1,6 +1,6 @@
-package com.securemetric.repository;
+package com.sample.repository;
 
-import com.securemetric.model.Product;
+import com.sample.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
