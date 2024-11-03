@@ -8,11 +8,11 @@
         <version>3.0.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.javatechie</groupId>
+    <groupId>com.jwt</groupId>
     <artifactId>spring-security-latest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>secure-metric</name>
-    <description>Secure Metric</description>
+    <name>jwt</name>
+    <description>jwt</description>
     <properties>
         <java.version>17</java.version>
     </properties>
